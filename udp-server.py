@@ -9,7 +9,7 @@ UDPServerSocket.bind((localIP, localPort))
 print("UDP server up and listening")
 
 # this might be database or a file
-di ={'Yusuf':'Deneme132113', '17BEC0647':'shikhar', '17BEC0150':'tanveer',
+di ={'Yasin':'Deneme132113', '17BEC0647':'shikhar', '17BEC0150':'tanveer',
 '17BCE2119':'sahil', '17BIT0123':'sidhant'}
 
 while(True):
